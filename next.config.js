@@ -10,12 +10,3 @@ module.exports = {
         return cfg;
     }
 }
-
-const withMDX = require('@next/mdx')({
-    options: {
-      extension: /\.(md|mdx)$/,
-      remarkPlugins: [],
-      rehypePlugins: [],
-    },
-  });
-module.exports = withMDX()
