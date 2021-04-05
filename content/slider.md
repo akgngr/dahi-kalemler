@@ -4,4 +4,5 @@ slide:
     title: sdfgdg
     description: dgFailed to persist entry
     url: sdfsf
+    thumbnail: image/slider/bg_sale.png
 ---
